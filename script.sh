@@ -6,5 +6,5 @@
 
 
 du=$(df -h)
-echo "$du"
+ 
 
