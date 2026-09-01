@@ -2,7 +2,6 @@
 
 
 
-echo "Hello Git"
 #This is very intresting to learn
 mem=$(free -h|awk 'NR>1{print $3+0}')
 #echo "$mem"
