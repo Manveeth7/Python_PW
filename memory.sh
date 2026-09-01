@@ -3,6 +3,7 @@
 
 
 echo "Hello Git"
+
 mem=$(free -h|awk 'NR>1{print $3+0}')
 #echo "$mem"
 for memo in $mem; do
